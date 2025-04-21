@@ -5,9 +5,13 @@ curl -s https://raw.githubusercontent.com/abdalla435/VPS-Pterodactyl-EGG/main/vp
 - Choose ```1```
 - Then Enter RDP Port ```3389```
 
-```apt install sudo```
+```
+apt install sudo
+```
 
-```sudo passwd```
+```
+sudo passwd
+```
 - Set password
 
 - Goto pinggy.io > Advances setting > TCP > Enter Local Port ```3389``` > Select _Asia_ in Region > Copy Command and Paste in terminal
