@@ -13,3 +13,5 @@ curl -s https://raw.githubusercontent.com/abdalla435/VPS-Pterodactyl-EGG/main/vp
 - Goto pinggy.io > Advances setting > TCP > Enter Local Port ```3389``` > Select _Asia_ in Region > Copy Command and Paste in terminal
 
 ### tcp://abcxyz (abcxyz is the IP)
+
+- Goto RD Client > Enter IP > Username is root > Password is passwd
